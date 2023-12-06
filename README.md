@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on https://discordcafe.app
 
 ## Skills
-### Main Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mysql,python)](https://skillicons.dev)
 
 <!---
