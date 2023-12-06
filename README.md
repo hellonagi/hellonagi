@@ -4,7 +4,7 @@
 - 🎮 I'm a developer of https://play.google.com/store/apps/details?id=com.n2dev.YachtDice
 
 ## Skills
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mysql,python,unity,c#)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mysql,python,unity,cs)](https://skillicons.dev)
 
 ## Languages
 English  
